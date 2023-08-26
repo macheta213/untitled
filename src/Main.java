@@ -8,7 +8,7 @@ public class Main {
         for (;;){
             Scanner scanner = new Scanner(System.in);
 
-            System.out.print("Input: ");
+            System.out.print("Input : ");
             String input = scanner.nextLine();
 
             if (Objects.equals(input, "0")) {
